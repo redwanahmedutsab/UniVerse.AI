@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/UniVerse.iml" filepath="$PROJECT_DIR$/.idea/UniVerse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SmartUIU.iml" filepath="$PROJECT_DIR$/.idea/SmartUIU.iml" />
     </modules>
   </component>
 </project>
